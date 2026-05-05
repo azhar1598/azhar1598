@@ -6,7 +6,7 @@ React · Next.js · Node.js · AI · SaaS · Video Pipelines
 📍 Hyderabad, India
 📧 mohammedazhar.1598@gmail.com
 
-🌐 azharmohammed.com
+🌐 [azharmohammed.com](https://azharmohammed.com)
 
 🚀 About Me
 
